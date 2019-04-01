@@ -1,4 +1,4 @@
-# [Live page:](https://startbootstrap.com/template-overviews/new-age/)
+# [Live page:](https://champala.github.io/gts-web/)
 
 ## Game The System
 
